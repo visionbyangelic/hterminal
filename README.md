@@ -1,3 +1,3 @@
 # hterminal
 Hacker terminal 
-Preview : https://urbantechgirl.github.io/hterminal/
+Preview : https://visionbyangelic.github.io/hterminal/
